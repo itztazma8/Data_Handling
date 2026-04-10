@@ -1,2 +1,4 @@
-# Data-Handling-Laptop-Data-Cleaning-README.md
-Projects related to data cleaning and EDA
+# Contents
+This is the content page for the projects.
+## Laptop Data Cleaning
+
